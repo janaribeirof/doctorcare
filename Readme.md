@@ -18,11 +18,12 @@
 
 <br>
   
-  <h4>Sobre</h4>
+### Sobre
 Aplicação médica formato de Landpage resposivo com link para contato via whatsapp. Serão implementadas melhorias para complementação do projeto tais como:
 seção depoimentos, seção de empresas que utilizam e seção mapa;
-  <h4>Roadmap</h4>
-  ### Pré-requisitos
+### Roadmap
+
+Pré-requisitos
 
  Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
  [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).

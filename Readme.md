@@ -11,7 +11,6 @@
 <a href="#Sobre">Sobre</a> .
 <a href="#Roadmap">Roadmap</a> .
 <a href="#tecnologias">Tecnologias</a> .
-<a href="#pre-requisitos">Pré Requisitos</a> .
 <a href="#licenc-a">Licença</a> .
 </p>
 
@@ -63,9 +62,10 @@ Pré-requisitos
  - [VScode](https://www.code.visualstudio.com/)
  - [Swipwejs-biblioteca](https://https://swiperjs.com/)
   
- ## Telas 
-![](assets/print1.png)
-![](assets/print2.png)
+ ### Telas 
+    
+![](./assets/print1.PNG)
+![](./assets/print2.PNG)
 
 Veja o funcionamento da aplicação acessando o link [Site](https://janaribeirof.github.io/doctorcare/).
   
